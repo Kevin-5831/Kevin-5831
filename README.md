@@ -2,7 +2,7 @@
 
   <p align="center">
       <a href="https://github.com/Jastin9958">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Kooky! + Passionate+Software+Engineer + FullStack+ | + Blockchain + DepOps+ Engineer" alt="Typing SVG" /0>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Jastin! + Passionate+Software+Engineer + FullStack+ | + Blockchain + DepOps+ Engineer" alt="Typing SVG" /0>
       </a>
   </p>
 
