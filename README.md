@@ -31,7 +31,7 @@
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin9958&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin9958&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin9958&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=5) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin9958&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
   ---
 
   </div>
