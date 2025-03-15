@@ -36,10 +36,6 @@
 
   </div>
   
-  | Monthly Overview |
-  |------------------|
-  |![Jastin9958 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin9958&theme=vue) |
-  
   ---
   
   
