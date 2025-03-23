@@ -2,7 +2,7 @@
 
   <p align="center">
       <a href="https://github.com/kooky5831">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Kooky! + Passionate+Software+Engineer + FullStack+ | + Blockchain + DepOps+ Engineer" alt="Typing SVG" /0>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Kooky! + Passionate+ FullStack+Engineer + | + API Integration  + Specialist" alt="Typing SVG" /0>
       </a>
   </p>
 
@@ -19,19 +19,13 @@
 
   </div>
 
-    
-
-  <p align="center">
-     <img src="https://streak-stats.demolab.com?user=kooky5831&theme=tokyonight"/> 
-  </p>
-
 
   <div align="center">
     
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kooky5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6) | ![Stats](https://github-readme-stats.vercel.app/api?username=kooky5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kooky5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6) | ![Contributions](https://streak-stats.demolab.com?user=kooky5831&theme=tokyonight) |
   ---
 
   </div>
