@@ -1,10 +1,4 @@
-![gitartwork](gitartwork.svg)
-
-  <p align="center">
-      <a href="https://github.com/kooky5831">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Kooky! + Passionate+ FullStack+Engineer + | + API Integration  + Specialist" alt="Typing SVG" /0>
-      </a>
-  </p>
+ 
 
   <div align="center">
       <img id="preview" src="https://komarev.com/ghpvc/?username=kooky5831&color=grey">
@@ -12,20 +6,24 @@
 
   <div align="center">
       
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkooky5831&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
   ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
   ![Stars](https://img.shields.io/github/stars/kooky5831?label=Stars&style=social)
   ![Followers](https://img.shields.io/github/followers/kooky5831?label=Followers&style=social)
 
   </div>
 
-
+ <p align="center">
+      <a href="https://github.com/kooky5831">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Kooky! + Passionate+ FullStack+Engineer + | + API Integration  + Specialist" alt="Typing SVG" /0>
+      </a>
+  </p>
+  
   <div align="center">
     
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kooky5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6) | ![Contributions](https://streak-stats.demolab.com?user=kooky5831&theme=tokyonight) |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kooky5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=kooky5831&theme=tokyonight)  |
   ---
 
   </div>
