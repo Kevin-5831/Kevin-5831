@@ -101,6 +101,18 @@
           <br>Laravel  
         </td>
         <td align="center" width="80">  
+          <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
+          <br>Django  
+        </td>
+        <td align="center" width="80">  
+          <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="FastAPI" />  
+          <br>FastAPI  
+        </td>
+        <td align="center" width="80">  
+          <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="icon" alt="Python" />  
+          <br>Python  
+        </td>
+        <td align="center" width="80">  
           <img  width="35" height="35" src="https://skillicons.dev/icons?i=mysql" alt="icon" alt="MySql" />  
           <br>MySql  
         </td>
@@ -108,47 +120,47 @@
           <img  width="35" height="35" src="https://skillicons.dev/icons?i=sqlite" alt="icon" alt="sqlite" />  
           <br>Sqlite  
         </td>
-        <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=postgresql" alt="icon" alt="PostgreSQL" />  
-          <br>PgSQL  
-        </td>
-        <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
-          <br>MongoDB
-        </td>
-        <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=redis" alt="icon" alt="redis" />  
-          <br>Redis
-        </td>
       </tr>
       <tr>  
         <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
-          <br>Git  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=postgresql" alt="icon" alt="PostgreSQL" />  
+            <br>PgSQL  
         </td>
         <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" alt="Stackoverflow" />  
-          <br>Stack  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
+            <br>MongoDB
         </td>
         <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=postman" alt="icon" alt="postman" />  
-          <br>Postman  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=redis" alt="icon" alt="redis" />  
+            <br>Redis
         </td>
         <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=heroku" alt="icon" alt="Heroku" />  
-          <br>Heroku  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
+            <br>Git  
         </td>
         <td align="center" width="80">  
-          <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
-          <br>AWS  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" alt="Stackoverflow" />  
+            <br>Stack  
+        </td>
+        <td align="center" width="80">  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=postman" alt="icon" alt="postman" />  
+            <br>Postman  
+        </td>
+        <td align="center" width="80">  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=heroku" alt="icon" alt="Heroku" />  
+            <br>Heroku  
+        </td>
+        <td align="center" width="80">  
+            <img  width="35" height="35" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" alt="AWS" />  
+            <br>AWS  
         </td>
         <td align="center" width="80">  
             <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
             <br>Docker  
-          </td>
+        </td>
         <td align="center" width="80">  
-          <img  width="35" height="35" src="https://skillicons.dev/icons?i=vercel" alt="icon" alt="Vercel" />  
-          <br>vercel  
+            <img  width="35" height="35" src="https://skillicons.dev/icons?i=vercel" alt="icon" alt="Vercel" />  
+            <br>vercel  
         </td>
       </tr>
     </table>  
