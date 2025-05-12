@@ -1,7 +1,7 @@
  
 
   <div align="center">
-      <img id="preview" src="https://komarev.com/ghpvc/?username=kooky5831&color=grey">
+      <img id="preview" src="https://komarev.com/ghpvc/?username=andriishulha93&color=grey">
   </div>
 
   <div align="center">
@@ -11,19 +11,13 @@
   ![Followers](https://img.shields.io/github/followers/kooky5831?label=Followers&style=social)
 
   </div>
-
- <p align="center">
-      <a href="https://github.com/kooky5831">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=1000&lines=I'm + Kooky! + Passionate+ FullStack+Engineer + | + API Integration  + Specialist" alt="Typing SVG" /0>
-      </a>
-  </p>
   
   <div align="center">
     
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kooky5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=kooky5831&theme=tokyonight)  |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=andriishulha93&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=andriishulha93&theme=tokyonight)  |
   ---
 
   </div>
@@ -32,10 +26,6 @@
   
   
   <div id="language and tools">
-    <a href="https://github.com/Jastin5831">
-      <img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Language+  and  + Tools + Which + I + used + to + Developing" alt="Typing SVG" />
-    </a>
-    <br>
     <table style="text-align: center;">  
       <tr>  
         <td align="center" width="80" align="center" width="80">  
