@@ -17,7 +17,7 @@
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=andriishulha93&theme=tokyonight)  |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=Kevin-5831&theme=tokyonight)  |
   ---
 
   </div>
