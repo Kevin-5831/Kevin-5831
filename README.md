@@ -1,14 +1,14 @@
  
 
   <div align="center">
-      <img id="preview" src="https://komarev.com/ghpvc/?username=andriishulha93&color=grey">
+      <img id="preview" src="https://komarev.com/ghpvc/?username=Kevin-5831&color=grey">
   </div>
 
   <div align="center">
       
   ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
-  ![Stars](https://img.shields.io/github/stars/andriishulha93?label=Stars&style=social)
-  ![Followers](https://img.shields.io/github/followers/andriishulha93?label=Followers&style=social)
+  ![Stars](https://img.shields.io/github/stars/Kevin-5831?label=Stars&style=social)
+  ![Followers](https://img.shields.io/github/followers/Kevin-5831?label=Followers&style=social)
 
   </div>
   
@@ -17,7 +17,7 @@
   ----
   |  Language Overview | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=andriishulha93&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=andriishulha93&theme=tokyonight)  |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=andriishulha93&theme=tokyonight)  |
   ---
 
   </div>
@@ -156,4 +156,4 @@
     </table>  
   </div>
   <hr>
-  <img src="https://github-profile-trophy.vercel.app/?username=andriishulha93" alt="andriishulha93" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevin-5831" alt="Kevin-5831" />
